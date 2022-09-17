@@ -1,4 +1,4 @@
-package com.example.template.hook
+package cn.fkj233.fuckqinling.hook
 
 abstract class BaseHook {
     var isInit: Boolean = false

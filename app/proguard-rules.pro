@@ -1,1 +1,1 @@
--keep class com.example.template.MainHook
+-keep class cn.fkj233.fuckqinling.MainHook
